@@ -1,0 +1,13 @@
+#principal {background-color: #36485e;}
+
+#menu { background-color: rgb(202, 202, 175); margin: 10px;}
+
+#rodape {background-color: red;
+font-size: 25px;} 
+
+ .paginas {background-color: blue; margin: 5px;
+font-size: 25px}
+
+ .Produtos {background-color:  rgb(202, 202, 175); margin: 10px; border: 15px outset blue;}
+ 
+ body {background: url('imagens/fundogamer.jpg') scroll;  } 
